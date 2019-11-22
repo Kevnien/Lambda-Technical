@@ -6,3 +6,7 @@
 - JavaScript
 - Python
 - Java
+
+### Problems Solved
+- Search in Sorted Matrix (Python)
+- Telephone Words (Javascript)
