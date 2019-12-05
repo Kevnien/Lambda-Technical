@@ -23,15 +23,12 @@ function processData(input) {
         switch (queryType) {
             case '1' :
                 const number = getNumber(string);
-                // console.log({queryType, orderedList, number});
                 stack.push(number);
                 orderedInsert(orderedList, Number.parseInt(number, 10));
-                // console.log({queryType, stack, orderedList, number});
                 break;
             case '2' :
                 const popped = stack.pop();
                 orderedList = remove(orderedList, Number.parseInt(popped, 10));
-                // console.log({queryType, stack, popped, orderedList});
                 break;
             case '3':
                 console.log(orderedList[orderedList.length - 1]);
