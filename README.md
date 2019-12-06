@@ -13,3 +13,4 @@
 - Sort Elements in a Stack (Javascript)
 - Tree: Preorder Traversal (Python)
 - Maximum Element (Javascript)
+- Cycle Detection (Javascript)
