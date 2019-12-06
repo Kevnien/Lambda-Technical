@@ -46,6 +46,7 @@ function removeDuplicates(head) {
         current.next = next;
         current = current.next;
     }
+    return head;
 }
 
 const list = new SinglyLinkedList();
