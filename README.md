@@ -14,3 +14,5 @@
 - Tree: Preorder Traversal (Python)
 - Maximum Element (Javascript)
 - Cycle Detection (Javascript)
+- Delete Duplicate-value Node from a Sorted Linked List
+- Merge Two Sorted Linked Lists (Javascript)
