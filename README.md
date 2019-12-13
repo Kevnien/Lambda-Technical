@@ -17,3 +17,4 @@
 - Delete Duplicate-value Node from a Sorted Linked List
 - Merge Two Sorted Linked Lists (Javascript)
 - Balanced Brackets (Javascript)
+- Equal Stacks (Javascript)
