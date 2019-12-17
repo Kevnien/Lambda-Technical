@@ -18,3 +18,4 @@
 - Merge Two Sorted Linked Lists (Javascript)
 - Balanced Brackets (Javascript)
 - Equal Stacks (Javascript)
+- Game of Two Stacks (Javascript)
